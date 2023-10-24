@@ -4,7 +4,7 @@
 **Profesor:** Luis Daniel Benavides
 
 ## Como funciona
-1. Primero se debe clonar el repositorio: https://github.com/EdwarLozano/AREP_PARCIAL2.git
+1. Primero se debe clonar el repositorio: https://github.com/EdwarLozano/ParcialEdwarLozano.git
 2. Luego se debe realizar el siguiente comando en la carpeta raíz
 ```
     mvn clean install
